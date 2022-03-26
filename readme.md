@@ -31,13 +31,20 @@ There are two types of widgets.
 03.	Text (Size, Fonts, Colours) 
 04.	Container 
 05.	Image/Icon 
-06.	Size margin & padding 
-07.	Box Constraints 
-08.	Row & Column 
-09.	Button 
-10.	Alert Dialog 
-11.	ListView both static & dynamic 
-12.	Floating Action button 
+    - Image(image: AssetImage("local-path"), options ...)
+    - Image(image: NetworkImage("url"), options ...)
+    - Image.asset("local-path", options ...)
+    - Image.network("url", options ...)
+06. Icon
+    - Material 
+    - Font Awesome
+07.	Size margin & padding 
+08.	Box Constraints 
+09.	Row & Column 
+10.	Button 
+11.	Alert Dialog 
+12.	ListView both static & dynamic 
+13.	Floating Action button 
 
 <br>
 
