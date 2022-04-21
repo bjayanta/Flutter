@@ -27,7 +27,7 @@ There are two types of widgets.
 <b>Stateless Widgets Topics</b>: 
 
 01.	What is a widget & types? 
-02.	Scaffold Appbar 
+02.	Scaffold + Appbar 
 03.	Text (Size, Fonts, Colours) 
 04.	Container 
 05.	Image/Icon 
@@ -42,9 +42,14 @@ There are two types of widgets.
 08.	Box Constraints 
 09.	Row & Column 
 10.	Button 
-11.	Alert Dialog 
+    - ElevatedButton
+    - IconButton
+    - Floating Action button 
+11.	Dialog 
+    - Alert Dialog 
+    - Custom Dialog box
 12.	ListView both static & dynamic 
-13.	Floating Action button 
+13.	Some useful widgets 
 
 <br>
 
