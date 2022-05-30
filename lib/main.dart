@@ -1,6 +1,8 @@
+import 'package:flutter/material.dart';
+
+import '/screens/details_screen.dart';
 import '/screens/create_screen.dart';
 import '/screens/notes_screen.dart';
-import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
 
@@ -14,6 +16,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/': (context) => CreateScreen(),
         '/allNotes': (context) => NotesScreen(),
+        '/notesDetails': (context) => DetailsScreen(),
       },
     );
   }
