@@ -68,7 +68,6 @@ class DatabaseHandler {
       where: '${NoteFields.id} = ?',
       whereArgs: [id],
     );
-    print('working');
 
     if(maps.isNotEmpty) {
       return Note.fromJson(maps.first);
