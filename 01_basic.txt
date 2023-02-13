@@ -1,0 +1,9 @@
+- Basic (Setup/Installation, First app, Structure)
+  - Introduction & History
+  - Flutter Architecture
+  - Installation/Setup
+  - Create our first flutter app
+  - Flutter Project Structure
+  - UI Basic Widgets
+  - Organize the code
+  - Add logic to application

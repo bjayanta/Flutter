@@ -1,0 +1,6 @@
+- Data storage & Assets
+  - Using Assets
+  - Reading & Writing Files
+  - Shared Preferences
+  - SQLite (Creating databases, issuing queries..)
+  - Firebase (Firestore & Realtime databases)

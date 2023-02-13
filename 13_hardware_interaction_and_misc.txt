@@ -1,0 +1,9 @@
+- Hardware Interaction & Misc
+  - Camera access
+  - Gallery access
+  - Permission Handling
+  - Notifications
+  - Restrict Landscape mode
+  - Location & Google Maps
+  - Swipe to refresh
+  - File IO

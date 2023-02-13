@@ -1,0 +1,11 @@
+
+- UI Design
+  - Flutter App Structure
+  - Introduction to Widgets
+  - Build method
+  - Stateful vs Stateless Widgets
+  - Some Important Widgets
+  - Layout widgets
+  - Themes
+  - Handling gestures
+  - Building complex UI
