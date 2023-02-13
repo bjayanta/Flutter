@@ -1,4 +1,0 @@
-
-- Custom Components & packages
-  - Creating custom components
-  - Creating basic packages

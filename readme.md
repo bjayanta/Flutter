@@ -1,55 +1,54 @@
-# Flutter 2022 Syllabus
+# Basic
 
-This is February 2023.
+Topics:
 
-The course include Theory, Examples & Home Work.
+- Introduction & History
+- Flutter Architecture
+- Installation/Setup
+- Create our first flutter app
 
-## Useful links
+## Introduction & History
 
-- Flutter official website [https://flutter.dev](https://flutter.dev/)
-- Download "Flutter SDK" from: [https://docs.flutter.dev/get-started/install](https://docs.flutter.dev/get-started/install)
-- The official package repository for Dart and Flutter apps: [https://pub.dev/](https://pub.dev/)
+Flutter is an open-source UI software development kit created by Google. It is used to develop cross-platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. First described in 2015, Flutter was released in May 2017.
 
-## Flutter Syllabus
+- Initial release date: May 2017
+- Developer: Google
+- License: New BSD License
+- Platforms: Android, iOS, Fuchsia, Web platform, macOS, Microsoft Windows, Linux
+- Programming languages: Dart, C, C++
 
-- Basic (Setup/Installation, First app, Structure)
-- UI Design
-- Navigation & Routing
-- Forms & Validation
-- Data storage & Assets
-- Communicating with 3rd party source
-- Animations
-- Reactive programming
-- State management
-- Basic Testing
-- Custom Components & packages
-- App publishing
-- Hardware Interaction & Misc
-- Bonus
+## Flutter Architecture
 
-## Projects
+Flutter Architecture application mainly consists of:
 
-Create some potential app & release on Google Play Store. Ideas:
+Widgets
+Gestures
+Concept of State
+Layers
 
-- Todo app
-- Calculator
-- Converter App
-- Quiz Game
-- Blog app
-- Movies App
-- Ecommerce app
-- Authentication System
-- Music Player
-- Travel App
-- Food delivery/ordering app
-- Budgeting and Finance App
-- EBook Publish & Reader
-- Solving design challenges (dribbble + behance)
+![How The Flutter Word?](workflow.jpg)
 
-## Exam + Certificate
+## Installation/Setup
 
-## Best tutorial websites
+Go to the [Flutter doc](https://docs.flutter.dev/get-started/install) to install flutter in your sustem.
 
-[https://docs.flutter.dev/reference/tutorials](https://docs.flutter.dev/reference/tutorials)
+Steps:
 
-Thank You.
+- Download and Install [Git](https://git-scm.com/)
+- Download and Install [Android Studio](https://developer.android.com/studio) and [Java](https://www.java.com/en/download/) (If need).
+- Download and Install [VS Code](https://code.visualstudio.com/)
+- Download and Extract [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- Add Flutter SDK path to System environment
+- Configure Android Studio
+- Configure VS Code
+
+## Create our first flutter app
+
+- Using Android Stdio
+- Using VS Code
+- Flutter Project Structure
+- UI Basic
+- Organize the code
+- Add logic to application
+
+Thank you.

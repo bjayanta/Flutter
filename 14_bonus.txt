@@ -1,5 +1,0 @@
-- Bonus
-  - Project structuring
-  - Project management
-  - Design patterns
-  - Creating & publishing packages to pub.dev
