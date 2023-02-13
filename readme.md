@@ -1,84 +1,148 @@
 # Flutter 2022 Syllabus
-This is March 2022. All the major parts of this course in list below. We will discus all of it. 
 
-<br>
+This is February 2023.
 
-### 01. Basic 
-Setup/Installation, First app, Structure 
+The course include Theory, Examples & Home Work.
 
-<b>Topics</b>: 
+## Useful links
 
-01.	Overview 
-02.	Installation/Setup 
-03.	Create our first flutter app 
-04.	UI Basic Widgets 
-05.	Organize the code 
-06.	Add logic to application 
+- Flutter official website [https://flutter.dev](https://flutter.dev/)
+- Download "Flutter SDK" from: [https://docs.flutter.dev/get-started/install](https://docs.flutter.dev/get-started/install)
+- The official package repository for Dart and Flutter apps: [https://pub.dev/](https://pub.dev/)
 
-<br>
+## Flutter Syllabus
 
-### 02. Widget 
-There are two types of widgets. 
-- Stateless Widgets (Never change their state)
-- Stateful Widgets (Change their state at runtime)
+- Basic (Setup/Installation, First app, Structure)
+  - Introduction & History
+  - Flutter Architecture
+  - Installation/Setup
+  - Create our first flutter app
+  - Flutter Project Structure
+  - UI Basic Widgets
+  - Organize the code
+  - Add logic to application
 
-<br>
+- UI Design
+  - Flutter App Structure
+  - Introduction to Widgets
+  - Build method
+  - Stateful vs Stateless Widgets
+  - Some Important Widgets
+  - Layout widgets
+  - Handling gestures
+  - Building complex UI
+  - Navigation & Routing
 
-<b>Stateless Widgets Topics</b>: 
+- Forms & Validation
+  - Creating Login screen
+  - User Input & Keyboard
+  - Retrieving Form values
+  - Form validation
+  - Global Keys
+  - Form submission
+  - Mixins and Validations
 
-01.	What is a widget & types? 
-02.	Scaffold + Appbar 
-03.	Text (Size, Fonts, Colours) 
-04.	Container 
-05.	Image/Icon 
-    - Image(image: AssetImage("local-path"), options ...)
-    - Image(image: NetworkImage("url"), options ...)
-    - Image.asset("local-path", options ...)
-    - Image.network("url", options ...)
-06. Icon
-    - Material 
-    - Font Awesome
-07.	Size margin & padding 
-08.	Box Constraints 
-09.	Row & Column 
-10.	Button 
-    - ElevatedButton
-    - TextButton
-    - IconButton
-    - Floating Action button 
-11.	Dialog 
-    - Alert Dialog 
-    - Custom Dialog box
-12.	ListView both static & dynamic 
-13.	Some useful widgets 
+- Data storage & Assets
+  - Using Assets
+  - Reading & Writing Files
+  - Shared Preferences
+  - SQLite (Creating databases, issuing queries..)
+  - Firebase (Firestore & Realtime databases)
 
-<br>
+- Communicating with the world
+  - Consuming REST API’s
+  - Working with JSON
+  - JSON to models
+  - Displaying data from API
+  - Future & async await
+  - Using third party packages
 
-<b>Stateful Widgets Topics</b>: 
+- Animations in flutter
+  - Animation basics
+  - Implicit & explicit animation
+  - Common animation widgets
+  - AnimationController
+  - Tween animation
+  - Hero Effect
+  - Animated Builder
+  - Parallel animation
 
-01.	What is Stateful widgets? What’s the major difference between Stateful & Stateless widget? 
-02.	Move from one Screen to another 
-03.	Test-Fields 
-04.	Radio buttons 
-05.	Checkbox 
-06.	Form 
-07.	Small App to Include both types 
+- Reactive programming
+  - Introduction to Streams
+  - Working with streams
+  - Handling stream data
+  - Working with RxDart
+  - Broadcast streams
+  - Observable,PublishSubject,BehaviourSubject & ReplaySubject
+  - Implementing BLOC with Streams
 
-<br>
+- State management with flutter
+  - Introduction & Why state management
+  - State management approaches (Provider/Rivderpod/BLOC)
+  - State management with Riverpod
+  - Implementing a project in Riverpod
+  - Provider & ScopedModel
+  - State management with BLOC
+  - Implementing a project in BLOC
 
-### 03. Projects 
-Create some potential app & release on Google Play Store.
+- Basic Testing
+  - Types of tests
+  - Unit testing
+  - Integration Testing
+  - Mocking HTTP requests
 
-<b>Ideas</b>: 
+- Custom Components & packages
+  - Creating custom components
+  - Creating basic packages
 
-01.	Todo app 
-02.	Calculator 
-03.	BMI Calculator 
-04.	Authentication System 
-05.	Blog app 
-06.	Budgeting and Finance App 
-07.	EBook Publish & Reader 
-08.	Delivery service app 
-09.	Ecommerce app 
+- App publishing
+  - Creating release builds
+  - Code Obfuscation
+  - Signing apps
+  - Performance and other optimization
+  - Creating developer accounts on App Store and play store
+  - Publishing apps on play store
+  - Publishing apps on app store
+
+- Hardware Interaction & Misc
+  - Camera access
+  - Gallery access
+  - Permission Handling
+  - Notifications
+  - Restrict Landscape mode
+  - Location & Google Maps
+  - Swipe to refresh
+  - File IO
+
+- Bonus
+  - Project structuring
+  - Project management
+  - Design patterns
+  - Creating & publishing packages to pub.dev
+
+## Projects
+
+Create some potential app & release on Google Play Store. Ideas:
+
+- Todo app
+- Calculator
+- Converter App
+- Quiz Game
+- Blog app
+- Movies App
+- Ecommerce app
+- Authentication System
+- Music Player
+- Travel App
+- Food delivery/ordering app
+- Budgeting and Finance App
+- EBook Publish & Reader
+- Solving design challenges (dribbble + behance)
+
+## Exam + Certificate
+
+## Best tutorial websites
+
+[https://docs.flutter.dev/reference/tutorials](https://docs.flutter.dev/reference/tutorials)
 
 Thank You.
