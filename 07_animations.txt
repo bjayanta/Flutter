@@ -1,9 +1,0 @@
-- Animations
-  - Animation basics
-  - Implicit & explicit animation
-  - Common animation widgets
-  - AnimationController
-  - Tween animation
-  - Hero Effect
-  - Animated Builder
-  - Parallel animation

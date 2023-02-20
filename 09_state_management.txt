@@ -1,8 +1,0 @@
-- State management
-  - Introduction & Why state management
-  - State management approaches (Provider/Rivderpod/BLOC)
-  - State management with Riverpod
-  - Implementing a project in Riverpod
-  - Provider & ScopedModel
-  - State management with BLOC
-  - Implementing a project in BLOC

@@ -1,8 +1,0 @@
-- App publishing
-  - Creating release builds
-  - Code Obfuscation
-  - Signing apps
-  - Performance and other optimization
-  - Creating developer accounts on App Store and play store
-  - Publishing apps on play store
-  - Publishing apps on app store
