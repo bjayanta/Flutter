@@ -16,12 +16,18 @@ class Container_Widget extends StatelessWidget {
             color: Colors.black,
             width: 5.0,
           ),
+          // border: Border(
+          //   top: BorderSide(color: Colors.red, width: 5.0),
+          //   right: BorderSide(color: Colors.green, width: 10.0),
+          // ),
           // borderRadius: BorderRadius.circular(16.0),
           borderRadius: BorderRadius.only(
             topRight: Radius.circular(100),
             bottomRight: Radius.circular(100),
           ),
         ),
+        alignment: Alignment.center,
+        child: Text("Hello"),
       ),
     );
   }
