@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'icon_widget.dart';
+import 'image_widget.dart';
 import 'row_widget.dart';
 import 'column_widget.dart';
 import 'appbar_widget.dart';
@@ -28,7 +30,9 @@ class MyApp extends StatelessWidget {
       // home: Row_Widget(),
       // home: Button_Widget(),
       // home: Dialogbox_Widget(),
-      home: Custom_Dialog_Widget(),
+      // home: Custom_Dialog_Widget(),
+      // home: Image_Widget(),
+      home: Icon_Widget(),
     );
   }
 }
