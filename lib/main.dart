@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'bottom_navbar.dart';
 import 'row_widget.dart';
 import 'column_widget.dart';
 import 'appbar_widget.dart';
@@ -21,8 +22,9 @@ class MyApp extends StatelessWidget {
       // home: Text_Widget(),
       // home: Container_Widget(),
       // home: Appbar_Widget(),
-      home: Column_Widget(),
+      // home: Column_Widget(),
       // home: Row_Widget(),
+      home: MyBottomNav(),
     );
   }
 }
